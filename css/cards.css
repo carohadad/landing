@@ -40,15 +40,15 @@
 }
 
 .card#card-1 .icon {
-  background: url(img/formulario-01.svg) no-repeat center center / 60px 60px;
+  background: url(../img/formulario-01.svg) no-repeat center center / 60px 60px;
 }
 
 .card#card-2 .icon {
-  background: url(img/videos-02.svg) no-repeat center center / 60px 60px;
+  background: url(../img/videos-02.svg) no-repeat center center / 60px 60px;
 }
 
 .card#card-3 .icon{
-  background: url(img/descargas-03.svg) no-repeat center center / 60px 60px;
+  background: url(../img/descargas-03.svg) no-repeat center center / 60px 60px;
 }
 
 .card:hover {
