@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Base para landings</title>
+    <description>Descripción de landings</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 10 Feb 2016 19:23:16 -0300</pubDate>
+    <lastBuildDate>Wed, 10 Feb 2016 19:23:16 -0300</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+  </channel>
+</rss>
